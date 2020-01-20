@@ -1,4 +1,4 @@
-# awesome-nbdev
+# Awesome-nbdev
 A curated list of resources for using FastAI's nbdev
 
 # Primary Resources: 

@@ -3,7 +3,10 @@ A curated list of resources for using fast.ai's nbdev
 
 ## Primary Resources: 
 1. [Nbdev Home Page](http://nbdev.fast.ai/) - main documentation for nbdev
-2. [Nbdev Template](https://github.com/fastai/nbdev_template) - fast.ai's template for nbdev projects
+
+## Templates: 
+1. [Nbdev Template](https://github.com/fastai/nbdev_template) - fast.ai's template for nbdev projects
+2. [Colab Template](https://github.com/muellerzr/nbdev_colab) - template for use in Google Colab
 
 ## Tutorials: 
 1. [Fast.ai Main Nbdev Tutorial](https://nbdev.fast.ai/tutorial/) - released by fast.ai

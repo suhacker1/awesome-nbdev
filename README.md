@@ -1,5 +1,5 @@
 # Awesome-nbdev:
-A curated list of resources for using FastAI's nbdev
+A curated list of resources for using fast.ai's nbdev
 
 ## Primary Resources: 
 1. [Nbdev Home Page](http://nbdev.fast.ai/) - main documentation for nbdev
@@ -14,4 +14,4 @@ A curated list of resources for using FastAI's nbdev
 2. [JupyterPlot](https://lvwerra.github.io/jupyterplot/) - library to plot real-time results in Jupyter Notebooks
 
 ## Best Practices and Blog Posts: 
-1. [How Nbdev Helps Us Structure Our Data Science Workflow in Jupyter Notebooks](https://medium.com/20tree-ai/how-nbdev-helps-us-structure-our-data-science-workflow-in-jupyter-notebooks-9cf6081b051f) - article about how nbdev is used at 20tree.ai
+1. [How Nbdev Helps Us Structure Our Data Science Workflow in Jupyter Notebooks](https://medium.com/20tree-ai/how-nbdev-helps-us-structure-our-data-science-workflow-in-jupyter-notebooks-9cf6081b051f) - article about how 20tree.ai uses nbdev

@@ -6,7 +6,7 @@ A curated list of resources for using FastAI's nbdev
 2. [Nbdev Template](https://github.com/fastai/nbdev_template)
 
 # Tutorials: 
-1. [Fast.ai Main Nbdev Tutorail](https://nbdev.fast.ai/tutorial/)
+1. [Fast.ai Main Nbdev Tutorial](https://nbdev.fast.ai/tutorial/)
 2. [A Step-by-Step Introduction to Starting nbdev — Exploratory Programming](https://towardsdatascience.com/a-step-by-step-introduction-to-starting-nbdev-exploratory-programming-4a761ed1f796)
 
 # Examples: 

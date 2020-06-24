@@ -1,6 +1,5 @@
 # Awesome-nbdev:
-A curated list of resources for using fast.ai's nbdev
-
+A curated list of resources for using fast.ai's nbdev. PRs for any additions welcome! 
 ## Primary Resources: 
 1. [Nbdev Home Page](http://nbdev.fast.ai/) - main documentation for nbdev
 2. [Introduction Post](https://www.fast.ai/2019/12/02/nbdev/) - fast.ai's post introducing nbdev 
